@@ -1,8 +1,5 @@
 <?php
-namespace MonProjet;
 require 'autoload.php';
-use MonProjet\AfakaAtaoAnatyPortefeuille;
-use MonProjet\Portefeuille;
 
 class Personne {
     public string $name = '';

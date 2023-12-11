@@ -1,7 +1,5 @@
 <?php
-namespace MonProjet;
 require 'autoload.php';
-use MonProjet\AfakaAtaoAnatyPortefeuille;
 
 class Vola implements AfakaAtaoAnatyPortefeuille {
     private int $value = 0;
