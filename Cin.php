@@ -1,4 +1,5 @@
 <?php
+namespace MonProjet;
 require 'autoload.php';
 
 class CIN implements AfakaAtaoAnatyPortefeuille{
